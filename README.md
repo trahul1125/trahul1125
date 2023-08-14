@@ -1,8 +1,6 @@
-[![MasterHead](https://pin.it/Zfrk5t7)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahul Singh Thakur</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
-<img align="right" alt="Data Science" width="400" scr="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
-
+<h3 align="center">A passionate Data Science enthusiast from India📶🔢📈📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trahul1125&label=Profile%20views&color=0e75b6&style=flat" alt="trahul1125" /> </p>
 
@@ -12,7 +10,7 @@
 
 - 💬 Ask me about **anything related to Data Science**
 
-- 📫 How to reach me **@LinkedIn**
+- 📫 How to reach me **@https://www.linkedin.com/in/rahul-thakur-359451147/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
